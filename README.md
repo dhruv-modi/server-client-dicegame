@@ -2,13 +2,17 @@
 USAGE:-
 
 SERVER:
-OutputFile <PORT> //For program passing integer message
 
-OutputFile <PORT> <DebugFlag> //For program passing string message
+OutputFile PORT //For program passing integer message
+
+OutputFile PORT DebugFlag //For program passing string message
+
 DebugFlag=0 of you don't want to see anything on the screen
 
 CLIENT:
-OutputFile <IP> <PORT>
+
+OutputFile IP PORT
+
 i.e. For local host use 127.0.0.1
 
 PROGRAM OVERVIEW:-
