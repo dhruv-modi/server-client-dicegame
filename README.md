@@ -1,6 +1,8 @@
 # server-client-dicegame
 USAGE:-
 
+------------------------------------------------------------------
+
 SERVER:
 
 OutputFile PORT //For program passing integer message
@@ -15,7 +17,12 @@ OutputFile IP PORT
 
 i.e. For local host use 127.0.0.1
 
+
+
 PROGRAM OVERVIEW:-
+
+------------------------------------------------------------------
+
 A client and a server program, to implement a simple online game. 
 The server process and the client process runs on two different machines and the communication
 between the two processes is achieved using Sockets.
