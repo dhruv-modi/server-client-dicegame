@@ -1,7 +1,7 @@
 # server-client-dicegame
 USAGE:-
 
-------------------------------------------------------------------
+
 
 SERVER:
 
@@ -19,9 +19,10 @@ i.e. For local host use 127.0.0.1
 
 
 
+------------------------------------------------------------------
+
 PROGRAM OVERVIEW:-
 
-------------------------------------------------------------------
 
 A client and a server program, to implement a simple online game. 
 The server process and the client process runs on two different machines and the communication
