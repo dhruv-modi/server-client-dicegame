@@ -7,7 +7,7 @@ OutputFile PORT //For program passing integer message
 
 OutputFile PORT DebugFlag //For program passing string message
 
-DebugFlag=0 of you don't want to see anything on the screen
+DebugFlag=0 if you don't want to see anything on the screen
 
 CLIENT:
 
